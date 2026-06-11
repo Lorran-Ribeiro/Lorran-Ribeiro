@@ -92,7 +92,7 @@ Sou desenvolvedor apaixonado por tecnologia e desenvolvimento de software, com e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lochest&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Lorran-Ribeiro&theme=tokyonight"/>
 
 </div>
 
@@ -102,7 +102,7 @@ Sou desenvolvedor apaixonado por tecnologia e desenvolvimento de software, com e
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lochest&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorran-Ribeiro&theme=tokyo-night"/>
 
 </div>
 
