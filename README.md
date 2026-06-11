@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou [Lorran]
 
-### 🧑‍💻 Desenvolvedor Full Stack 
+### 👨‍💻 Desenvolvedor Full Stack 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Construindo+soluções+escaláveis;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
 
