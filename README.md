@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor apaixonado por tecnologia e desenvolvimento de software, com experiência na construção de aplicações web modernas utilizando tecnologias front-end e back-end.
+Sou um desenvolvedor em  fase de desenvolvimento, front-end e back-end.
 
 - 🔭 Desenvolvendo aplicações web escaláveis
 - 🌱 Aprimorando conhecimentos em arquitetura de software
