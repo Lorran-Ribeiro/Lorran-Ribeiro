@@ -80,13 +80,11 @@ Sou um desenvolvedor em  fase de desenvolvimento, front-end e back-end.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Lochest&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lochest&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Lochest&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochest&layout=compact&theme=tokyonight"/>
 
 </div>
-
-
 ---
 
 # 🔥 Sequência de Contribuições
