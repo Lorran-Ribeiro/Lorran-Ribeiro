@@ -108,25 +108,6 @@ Sou um desenvolvedor em  fase de desenvolvimento, front-end e back-end.
 
 ---
 
-# 🎯 Principais Competências
-
-✅ Git  
-✅ GitHub  
-✅ Angular  
-✅ Node.js  
-✅ JavaScript  
-✅ HTML5  
-✅ CSS3  
-✅ MongoDB  
-✅ SQL  
-✅ API REST  
-✅ Desenvolvimento Front-end  
-✅ Desenvolvimento Back-end  
-✅ Modelagem de Dados  
-✅ Scrum  
-✅ Kanban  
-
----
 
 # 📫 Contato
 
